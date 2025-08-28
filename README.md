@@ -11,5 +11,5 @@ Repositório para organizar meus estudos de **C++** 🚀
 ## Como compilar
 Exemplo:
 ```bash
-g++ basics/hello_world.cpp -o hello.exe
-./hello.exe
+g++ basico/hello_world.cpp -o hello.exe
+./helloworld.exe

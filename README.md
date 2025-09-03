@@ -7,6 +7,7 @@ Repositório para organizar meus estudos de **C++** 🚀
 - `exercicios/` → exercícios resolvidos  
 - `projetos/` → pequenos projetos  
 - `notes/` → anotações em Markdown  
+- `bin/` → Executaveis
 ## Compilando rapido
 -mingw32-make run FILE=13
 

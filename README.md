@@ -7,9 +7,13 @@ Repositório para organizar meus estudos de **C++** 🚀
 - `exercicios/` → exercícios resolvidos  
 - `projetos/` → pequenos projetos  
 - `notes/` → anotações em Markdown  
+## Compilando rapido
+-mingw32-make run FILE=13
 
 ## Como compilar
 Exemplo:
 ```bash
 g++ basico/hello_world.cpp -o hello.exe
 ./helloworld.exe
+
+

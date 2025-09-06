@@ -5,7 +5,7 @@ int main(){
 int i = 1;
 for (i; i <= 20; i++)
 {
-    std::cout << i*i << '\n';
+    std::cout << i << " X " << i << " = " << i*i << '\n';
 }
 return 0;
 

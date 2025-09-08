@@ -22,7 +22,7 @@ int main(){
 
 
     }
-    int media = numerosdigitados/contavezes;
+    double media = numerosdigitados/contavezes;
     std::cout << "a media dos numeros digitados foi de " << media;
     return 0;
 }

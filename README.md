@@ -1,7 +1,6 @@
-# C++ Studies
+# C++ Estudos
 
-Repositório para organizar meus estudos de **C++** 🚀  
-
+Repositório para organizar meus estudos de **C++** 
 ## Estrutura
 - `basico/` → exemplos de conceitos básicos  
 - `exercicios/` → exercícios resolvidos  

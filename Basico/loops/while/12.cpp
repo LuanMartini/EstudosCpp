@@ -14,8 +14,7 @@ int main(){
         std::cout << "Digite novamente(sair=n negativo)";
         std::cin >> n;
         std::cout << "soma dos numeros é igual: " << soman;
-    }
     
-    return 0;
+    return 0;}
     
 }
